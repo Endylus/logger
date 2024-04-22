@@ -1,0 +1,29 @@
+{
+  "name": "@endylus/logger",
+  "version": "1.0.0",
+  "description": "It enables logging into the local directory.",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.js"
+  },
+  "keywords": [
+    "logger",
+    "filelogger",
+    "locallogger",
+    "local-logger",
+    "log",
+    "filelog",
+    "locallog",
+    "local-log",
+    "console"
+  ],
+  "author": "endylus",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Endylus/logger.git"
+  },
+  "dependencies": {
+    "path": "^0.12.7"
+  }
+}
